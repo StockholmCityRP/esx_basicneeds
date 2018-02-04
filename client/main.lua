@@ -31,7 +31,7 @@ AddEventHandler('esx_status:loaded', function(status)
 			return true
 		end,
 		function(status)
-			status.remove(200)
+			status.remove(100)
 		end
 	)
 
@@ -40,7 +40,7 @@ AddEventHandler('esx_status:loaded', function(status)
 			return true
 		end,
 		function(status)
-			status.remove(250)
+			status.remove(75)
 		end
 	)
 

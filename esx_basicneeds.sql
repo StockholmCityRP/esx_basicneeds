@@ -1,6 +1,6 @@
-USE `essentialmode`;
+USE `fivem2337`;
 
 INSERT INTO `items` (name, label) VALUES 
-	('bread', 'Pain'),
-	('water', 'Eau')
+	('bread', 'Bread'),
+	('water', 'Water')
 ;
